@@ -96,3 +96,7 @@ The cybersecurity strategy follows a structured, phased implementation to minimi
 📢 Disclaimer
 
 This project is for academic and research purposes only. It is not affiliated with BUE’s official IT security policies and serves as a conceptual cybersecurity design for educational insights.
+
+#Documentation 
+[ayman202467_cyber secutity_report.pdf](https://github.com/user-attachments/files/18597244/ayman202467_cyber.secutity_report.pdf)
+
